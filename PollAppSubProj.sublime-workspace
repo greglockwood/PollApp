@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"main	<main>"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"canva",
+				"canvasdiv"
+			],
+			[
+				"controll",
+				"controllerAs"
+			],
+			[
+				"res",
+				"restrict"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"sci",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.html",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"File: Copy as Tag style"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"asd",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"install SublimeCodeIntel;",
+			"install SublimeCodeIntel"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp",
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp/bower_components"
+	],
+	"file_history":
+	[
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp/views/layout.jade",
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp/public/js/.bower.json",
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp/views/index.jade",
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp/node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_file1.ext1",
+		"/C/Users/Fred/Desktop/dev/eclipse-dev/PollApp/node_modules/jade/lib/filters.js",
+		"/C/Users/Fred/Desktop/dev/ng/index.html",
+		"/C/Users/Fred/Desktop/testin/index.html",
+		"/C/Users/Fred/Desktop/testin/ns.sublime-project",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/index.html",
+		"/C/Users/Fred/Desktop/index.html",
+		"/C/Users/Fred/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Fred/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Fred/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Fred/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/js/core.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/js/controllers/main.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/js/services/todos.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/js/library/stats.min.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/js/library/Projector.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/public/js/library/CanvasRenderer.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/server.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/app/routes.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/app/models/todo.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/config/database.js",
+		"/C/Users/Fred/Desktop/asd/03/js/nebula.js",
+		"/C/Users/Fred/Documents/App Dev/AngWorkin/Angular/product-reviews.html",
+		"/C/Users/Fred/Documents/App Dev/scotchio/daclone/node-todo-master/README.md",
+		"/C/Users/Fred/Documents/App Dev/scotchio/SingleTodo/public/index.html",
+		"/C/Users/Fred/Documents/App Dev/scotchio/SingleTodo/public/core.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/SingleTodo/server.js",
+		"/C/Users/Fred/Documents/App Dev/Angular/app.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/SingleTodo/core.js",
+		"/C/Users/Fred/Documents/App Dev/scotchio/SingleTodo/package.json",
+		"/C/Users/Fred/Documents/App Dev/scotchio/SingleTodo/public/server.js",
+		"/C/Users/Fred/Documents/App Dev/AngWorkin/Angular/index.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/css/style.css",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-tabs.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-specs.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-reviews.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/index.html",
+		"/C/Users/Fred/AppData/Local/Temp/Rar$DRa0.615/Angular/app.js",
+		"/C/Users/Fred/AppData/Local/Temp/Rar$DRa0.277/Angular/index.html",
+		"/C/Users/Fred/AppData/Local/Temp/Rar$DRa0.584/Angular/index.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-description.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-title.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-review.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product-gallery.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/product.js",
+		"/C/Users/Fred/Documents/App Dev/Angular/description.html",
+		"/C/Users/Fred/Documents/App Dev/Angular/store-product.json",
+		"/C/Users/Fred/Documents/App Dev/Angular/js/angular.min.js",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/js/app.js",
+		"/C/Users/Fred/Documents/App Dev/EmberJSApp/public/js/views/application.js",
+		"/C/Users/Fred/Documents/App Dev/EmberJSApp/app.js",
+		"/C/Users/Fred/Documents/App Dev/EmberJSApp/routes/index.js",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/node_modules/ember/package.json",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/css/style.css",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/index.html",
+		"/C/Users/Fred/Documents/App Dev/problems.js",
+		"/C/Users/Fred/Documents/App Dev/MEAN2/MEAN2/server.js",
+		"/C/Users/Fred/Documents/App Dev/MEAN/public/index.html",
+		"/C/Users/Fred/Documents/App Dev/MEAN/public/features/services/controller.js",
+		"/C/Users/Fred/Documents/App Dev/Angular/js/app.js",
+		"/C/Users/Fred/Documents/App Dev/Angular/js",
+		"/C/Users/Fred/Documents/App Dev/MEAN/server.js",
+		"/C/Users/Fred/Documents/App Dev/BegginersNode/NodeWithExpress/test/bin/www",
+		"/C/Users/Fred/Documents/App Dev/BegginersNode/NodeWithExpress/test/app.js",
+		"/C/Users/Fred/Documents/App Dev/BegginersNode/helloworld.js",
+		"/C/Users/Fred/Documents/App Dev/BegginersNode/server.js",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/css/backgroundpic.jpg",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/media/backgroundpic.jpg",
+		"/C/Users/Fred/Documents/App Dev/Portfolio/bootstrap-3.2.0-dist/css/bootstrap.css",
+		"/C/Users/Fred/Downloads/fstyle",
+		"/C/Users/Fred/Documents/App Dev/Part2/Simple Jquery Web Application/jquery.js",
+		"/C/Users/Fred/Documents/App Dev/Part2/Simple Jquery Web Application/test.json",
+		"/C/Users/Fred/Documents/App Dev/Part2/Simple Jquery Web Application/images.html",
+		"/C/Users/Fred/Documents/App Dev/Part2/Simple Jquery Web Application/index.html",
+		"/C/Users/Fred/Documents/App Dev/testcsv.csv",
+		"/C/Users/Fred/Documents/App Dev/Learning JQuery/jquery.js",
+		"/C/Users/Fred/Documents/App Dev/Simple Jquery Web Application/index.html",
+		"/C/Users/Fred/SillySimple/js/zepto.js",
+		"/C/Users/Fred/SillySimple/js/silly.js",
+		"/C/Users/Fred/SillySimple/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"append",
+			"key1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "PollAppSubProj.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
